@@ -1,5 +1,7 @@
 # Essen und Trinken
 
+- [Online aufgabe](https://www.schubert-verlag.de/aufgaben/uebungen_a1/sa1_uebungen_index.htm)
+
 - Einen Text über beliebte Speisen und Getränke verstehen
     - Am liebsten essen die Deutschen... Die Österreicher mögen... In der Schweiz trinkt man...
 - Über eigene Vorlieben und typische Gerichte und Getränke im Heimatland berichten
