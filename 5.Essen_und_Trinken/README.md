@@ -5,5 +5,5 @@ Einen Text über beliebte Speisen und Getränke verstehen
 Über eigene Vorlieben und typische Gerichte und Getränke im Heimatland berichten
     - In Polen trinkt/isst man am liebsten... Ich mag...
 Lebensmittel benennen
-            - der Apfel, die Milch, das Brot
+    - der Apfel, die Milch, das Brot
 
