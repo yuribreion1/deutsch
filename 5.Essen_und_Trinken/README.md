@@ -1,5 +1,12 @@
 # Essen und Trinken
 
+## Wortschatz
+
+- beliebte - popular
+- liebsten - favorite
+- Vorlieben - preferences
+- Heimatland - home land
+
 - [Online aufgabe](https://www.schubert-verlag.de/aufgaben/uebungen_a1/sa1_uebungen_index.htm)
 
 - Einen Text über beliebte Speisen und Getränke verstehen
@@ -16,3 +23,6 @@
     - In meiner Heimatstadt gibt es italienische Restaurants. Ich esse gern ungarische Salami
 - Einen Text über Süssigkeiten verstehen
     - Toblerone, Mozartkugeln und Gummibärchen
+
+1. Beliebte Speisen und Getränke
+    1.1 Von Montag bis Freitag essen vielen Deutsche mittags in der Kantine. Am liebsten essen sie dort Currywurst oder Pizza
